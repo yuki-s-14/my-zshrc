@@ -3,6 +3,7 @@ alias gist='git status'
 alias gife='git fetch'
 alias giad='git add .'
 alias gico='git commit'
+alias gire='git reset --soft HEAD^'
 
 # Functions
 giuser() {
